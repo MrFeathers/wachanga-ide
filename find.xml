@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '[kidly] - .../webpub/js/wachanga/w_admin.js'" />
+    <option name="defaultScopeName" value="File '[kidly] - .../webpub/js/wachanga/w_admin.js'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '[kidly] - .../webpub/js/wachanga/w_admin.js'" />
   </component>
 </application>
