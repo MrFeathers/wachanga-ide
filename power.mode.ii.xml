@@ -1,12 +1,18 @@
 <application>
   <component name="PowerModeII">
     <option name="blueTo" value="243" />
+    <option name="enabled" value="false" />
     <option name="flamesEnabled" value="false" />
     <option name="greenFrom" value="149" />
+    <option name="isBamEnabled" value="false" />
+    <option name="isCaretAction" value="false" />
+    <option name="isPowerIndicatorEnabled" value="false" />
     <option name="redFrom" value="124" />
+    <option name="shakeEnabled" value="false" />
     <option name="shakeRange" value="2" />
     <option name="soundsFolder" value="$USER_HOME$" />
     <option name="sparkCount" value="5" />
     <option name="sparkLife" value="1743" />
+    <option name="sparksEnabled" value="false" />
   </component>
 </application>
