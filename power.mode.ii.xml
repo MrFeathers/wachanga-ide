@@ -1,7 +1,6 @@
 <application>
   <component name="PowerModeII">
     <option name="blueTo" value="243" />
-    <option name="enabled" value="false" />
     <option name="flamesEnabled" value="false" />
     <option name="greenFrom" value="149" />
     <option name="isBamEnabled" value="false" />
